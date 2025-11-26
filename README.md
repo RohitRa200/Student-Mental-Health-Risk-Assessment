@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Screenshot 2025-11-26 145814.png)
 *> **[Click Here to Interact with the Live Dashboard on Tableau Public]** (Paste_Your_Tableau_Link_Here)*
 
 ---
