@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-11-26 145814.png)
+![Dashboard Screenshot](https://github.com/RohitRa200/Student-Mental-Health-Risk-Assessment/blob/d2ba94d0d269243b73ad58283496bf09abecf74d/Screenshot%202025-11-26%20145814.png)
 *> **[Click Here to Interact with the Live Dashboard on Tableau Public]** (Paste_Your_Tableau_Link_Here)*
 
 ---
