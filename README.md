@@ -84,8 +84,8 @@ Based on this data, I propose the following interventions for university stakeho
 ## 👨‍💻 About Me
 I am a Data Analyst passionate about translating raw data into strategic business insights. I specialize in SQL for data manipulation and Tableau for storytelling.
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Your Portfolio Website / NovyPro Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/rohitrajanalyticsmind/]
+* **Portfolio:** [https://rohitra200.github.io/rohitraj.github.io/]
+* **Email:** [rohitrajrajrohit60@gmail.com]
 
 *Feel free to star ⭐ this repository if you find the analysis interesting!*
